@@ -413,7 +413,10 @@ top: 12rem;
     padding-top: 24px; 
   }
   .wrapper .title {
-    font-size: 84px;
+    font-size: 72px;
+  }
+  .wrapper .sub-title {
+    font-size: 40px;
   }
 }
 
